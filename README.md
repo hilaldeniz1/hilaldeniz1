@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on MimCode
+- 🌱 I’m currently learning HTML , CSS, JS , React
+- 🧳I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.
 - 👯 I’m looking to collaborate on project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
